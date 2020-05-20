@@ -1,15 +1,15 @@
 ## t-rex-runner
 
-the trex runner game extracted from chrome offline err page.
+从chrome离线错误页面提取的trex runner游戏。
 
-see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
+见[来源](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
 
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+[开始玩! :smile: ](http://wayou.github.io/t-rex-runner/)
 
 ![chrome offline game cast](assets/screenshot.gif)
 
-## Interesting Forks/In Chinese, we call it 「花样玩法」
+## Interesting Forks/在中文里，我们称之为「花样玩法」
 
 - [vianroyal](https://github.com/vianroyal)/[t-rex-runner](https://github.com/vianroyal/t-rex-runner) [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
 <br>
